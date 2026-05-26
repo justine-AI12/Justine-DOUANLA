@@ -31,7 +31,8 @@ Passionnée par l'analyse et la réflexion stratégique, mon objectif est d'acco
 * **Objectif :** Suivi en temps réel des KPIs et identification des tendances régionales.
 * **Résultats :** Visualisation immédiate des performances et réduction du temps de reporting mensuel.
 * **Stack :** Power BI, Power Query.
-* [🔗 Voir le projet](#) #### 2. Segmentation Client par Clustering 🤖
+* [🔗 Voir le projet](#)
+#### 2. Segmentation Client par Clustering 🤖
 * **Objectif :** Regrouper le portefeuille client pour personnaliser les stratégies marketing.
 * **Résultats :** Identification de 5 profils clients clés permettant une meilleure allocation budgétaire.
 * **Stack :** Python (Pandas, Matplotlib, Scikit-Learn - K-Means, DBSCAN).
