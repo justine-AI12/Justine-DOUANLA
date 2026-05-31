@@ -69,7 +69,7 @@ Passionnée par l'analyse et la réflexion stratégique, mon objectif est d'acco
 
 ### 📬 Contact & Réseaux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-douanla-data-analyst-alternance-paris) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-compte) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douanla.justinedj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-douanla-data-analyst-alternance-paris) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/votre-compte](https://justine-ai12.github.io/Justine-DOUANLA/)) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douanla.justinedj@gmail.com)
 
 ---
 *Dernière mise à jour : Mai 2026*
