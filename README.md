@@ -27,11 +27,11 @@ Passionnée par l'analyse et la réflexion stratégique, mon objectif est d'acco
 
 ### 📈 Projets Phares
 
-#### 1. Dashboard de Performance Commerciale 📊
-* **Objectif :** Suivi en temps réel des KPIs et identification des tendances régionales.
-* **Résultats :** Visualisation immédiate des performances et réduction du temps de reporting mensuel.
-* **Stack :** Power BI, Power Query.
-* [🔗 Voir le projet](#)
+#### 1. Analyseur de Logs & Diagnostic Infrastructure ⚙️
+* **Objectif :** Automatisation du traitement des fichiers logs serveurs pour diagnostiquer les pannes de communication entre serveurs web et d'applications.
+* **Résultats :** Identification rapide des boucles d'erreurs d'initialisation du connecteur, isolation des tentatives d'accès non autorisées et export des anomalies au format CSV pour le suivi technique.
+* **Stack :** Linux (Debian), Scripting Bash, Apache HTTP Server, mod_jk.
+* [🔗 Voir le projet](https://github.com/justine-AI12/apache-log-analyzer)
 #### 2. Segmentation Client par Clustering 🤖
 * **Objectif :** Regrouper le portefeuille client pour personnaliser les stratégies marketing.
 * **Résultats :** Identification de 5 profils clients clés permettant une meilleure allocation budgétaire.
@@ -69,7 +69,7 @@ Passionnée par l'analyse et la réflexion stratégique, mon objectif est d'acco
 
 ### 📬 Contact & Réseaux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-douanla-data-analyst-alternance-paris) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/votre-compte](https://justine-ai12.github.io/Justine-DOUANLA/)) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douanla.justinedj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-douanla-data-analyst-alternance-paris) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([(https://justine-ai12.github.io/Justine-DOUANLA/)]) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douanla.justinedj@gmail.com)
 
 ---
 *Dernière mise à jour : Mai 2026*
